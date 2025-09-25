@@ -1,0 +1,71 @@
+1️⃣ WSL preparation
+
+Updated and installed WSL on Windows:
+
+wsl --install
+
+
+Launched Ubuntu WSL and created a default Unix user (tripa).
+
+Opened VS Code, installed Remote - WSL extension, and opened a new WSL Ubuntu terminal in VS Code.
+
+2️⃣ Initial Maven attempt
+
+In the VS Code Ubuntu terminal, ran:
+
+wget https://archive.apache.org/dist/maven/maven-3/3.5.2/binaries/apache-maven-3.5.2-bin.tar.gz
+sudo tar -xzf apache-maven-3.5.2-bin.tar.gz -C /opt
+echo "export PATH=/opt/apache-maven-3.5.2/bin:$PATH" >> ~/.bashrc
+source ~/.bashrc
+
+
+Errors encountered:
+
+utime(...): Operation not permitted → due to downloading in /mnt/c/...
+
+Bash errors: not a valid identifier → caused by Windows PATH containing spaces
+
+JAVA_HOME not defined → Maven requires JDK
+
+3️⃣ Troubleshooting steps
+
+Confirmed WSL Ubuntu terminal worked
+
+Ran wsl -d Ubuntu outside VS Code to ensure Bash shell was functional.
+
+Cleaned up PATH issues
+
+Removed broken PATH lines from ~/.bashrc.
+
+Added Maven to PATH safely with quotes:
+
+echo 'export PATH="/opt/apache-maven-3.5.2/bin:$PATH"' >> ~/.bashrc
+
+
+Installed Java JDK in WSL
+
+Checked Java: java -version → not found
+
+Installed OpenJDK 21:
+
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+
+
+Set JAVA_HOME and updated PATH:
+
+echo 'export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64' >> ~/.bashrc
+echo 'export PATH=$JAVA_HOME/bin:/opt/apache-maven-3.5.2/bin:$PATH' >> ~/.bashrc
+source ~/.bashrc
+
+
+Verified Maven installation
+
+mvn -v
+
+
+Confirmed Maven 3.5.2 installed
+
+Java 21 detected
+
+Correct Maven and Java home directories
