@@ -20,11 +20,15 @@ aws-projects/
 │   ├── ...  
 │   └── Project-9/  
 ├── Database-Series/  
-│   ├── Project-1/ (Coming Soon)  
-│   └── Project-2/ (Coming Soon)  
+│   ├── Project-1/ 
+│   └── Project-2/  
+│   ├── ...  
+│   └── Project-5/ 
 ├── DevOps-Series/  
-│   ├── Project-1/ (Upcoming)  
-│   └── Project-2/ (Upcoming)  
+│   ├── Project-1/  
+│   └── Project-2/  
+│   ├── ...  
+│   └── Project-6/ 
 └── README.md  ← You are here
 
 
@@ -33,21 +37,20 @@ aws-projects/
 
 Hands-on projects covering VPCs, subnets, traffic control, security, peering, monitoring, and connectivity to S3.
 
-Explore Networking Projects →
+Explore Networking Projects → (./Networking-Series)
 
 🔹 Database Series
 
 Projects exploring RDS, Aurora, database visualization, and integrations.
 
-Explore Database Projects →
- (Coming Soon)
-
+Explore Database Projects → (./Database-Series)
+ 
 🔹 DevOps Series
 
 Automation, CI/CD, containerization, and infrastructure as code projects.
 
-Explore DevOps Projects →
- (Coming Soon)
+Explore DevOps Projects → (./Devops-Series)
+ 
 
 🛠️ Tech Toolbox
 
