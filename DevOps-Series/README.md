@@ -1,7 +1,7 @@
-🏗️ 7-Day DevOps Challenge
+🏗️ 6-Day DevOps Challenge
 
-Welcome to the 7-Day DevOps Challenge! 🚀
-Over the next 7 days, I built a complete CI/CD pipeline that takes code from commit → build → deployment, gaining practical DevOps skills highly valued in the tech & cloud industry.
+Welcome to the 6-Day DevOps Challenge! 🚀
+Over the next 6 days, I built a complete CI/CD pipeline that takes code from commit → build → deployment, gaining practical DevOps skills highly valued in the tech & cloud industry.
 
 By the end of this challenge, I had:
 
@@ -15,12 +15,12 @@ By the end of this challenge, I had:
 1️⃣ Project 1: Set Up a Web App in the Cloud
 
 Launched an EC2 instance, deployed a Java web app, and connected it with Aurora DB.
-📄 View Project 1
+[📄 View Project 1](./01_Setupawebappincloud)
 
 2️⃣ Project 2: Connect a GitHub Repo with AWS
 
 Configured Git on EC2, connected it to GitHub, and learned staging/committing/pushing changes.
-📄 View Project 2
+[📄 View Project 2](./02_Connect a GitHub Repo with AWS)
 
 3️⃣ Project 3: Store Dependencies in CodeArtifact
 
