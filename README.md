@@ -37,19 +37,19 @@ aws-projects/
 
 Hands-on projects covering VPCs, subnets, traffic control, security, peering, monitoring, and connectivity to S3.
 
-Explore Networking Projects → (./Networking-Series)
+[Explore Networking Projects →](./Networking-Series)
 
 🔹 Database Series
 
 Projects exploring RDS, Aurora, database visualization, and integrations.
 
-Explore Database Projects → (./Database-Series)
+[Explore Database Projects →](./Database-Series)
  
 🔹 DevOps Series
 
 Automation, CI/CD, containerization, and infrastructure as code projects.
 
-Explore DevOps Projects → (./Devops-Series)
+[Explore DevOps Projects →](./Devops-Series)
  
 
 🛠️ Tech Toolbox
