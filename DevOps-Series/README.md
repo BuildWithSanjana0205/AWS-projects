@@ -20,22 +20,22 @@ Launched an EC2 instance, deployed a Java web app, and connected it with Aurora 
 2️⃣ Project 2: Connect a GitHub Repo with AWS
 
 Configured Git on EC2, connected it to GitHub, and learned staging/committing/pushing changes.
-[📄 View Project 2](./02_Connect a GitHub Repo with AWS)
+[📄 View Project 2](./02_ConnectaGitHubRepowithAWS)
 
 3️⃣ Project 3: Store Dependencies in CodeArtifact
 
 Integrated Maven with CodeArtifact to publish and manage dependencies securely.
-📄 View Project 3
+[📄 View Project 3](./03_SecurePackageswithcodeartifact)
 
 4️⃣ Project 4: Package an App with CodeBuild
 
 Set up AWS CodeBuild to automatically compile, test, and package the Java application.
-📄 View Project 4
+[📄 View Project 4](./04_Continuosintegrationwithcodebuild)
 
 5️⃣ Project 5: Deploy an App with CodeDeploy
 
 Automated deployments using CodeDeploy, CloudFormation, and deployment scripts.
-📄 View Project 5
+[📄 View Project 5](./DeployaWeb AppwithCodeDeploy)
 
 6️⃣ Project 6: CI/CD with CodePipeline
 
