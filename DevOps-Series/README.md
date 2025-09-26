@@ -35,12 +35,12 @@ Set up AWS CodeBuild to automatically compile, test, and package the Java applic
 5️⃣ Project 5: Deploy an App with CodeDeploy
 
 Automated deployments using CodeDeploy, CloudFormation, and deployment scripts.
-[📄 View Project 5](./DeployaWeb AppwithCodeDeploy)
+[📄 View Project 5](./DeployaWebAppwithCodeDeploy)
 
 6️⃣ Project 6: CI/CD with CodePipeline
 
 Assembled CodePipeline + CodeBuild + CodeDeploy to create a fully automated CI/CD pipeline.
-📄 View Project 6
+[📄 View Project 6](./06_BuildACICDpipeline)
 
 
 🏗️ Final Architecture Diagram
@@ -48,6 +48,7 @@ Assembled CodePipeline + CodeBuild + CodeDeploy to create a fully automated CI/C
 Here is the end-to-end architecture of the CI/CD pipeline built during this challenge:
 
 This diagram shows how code flows seamlessly from GitHub → CodeBuild → CodeDeploy → EC2 (with dependencies stored in CodeArtifact and artifacts in S3) — fully automated through CodePipeline.
+[View the Diagram](./ArchitecturalDiagram)
 
 
 🎯 Final Outcome
