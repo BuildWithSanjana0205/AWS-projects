@@ -19,7 +19,7 @@ Gain hands-on experience with controlling traffic flow and securing resources in
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](LINK_TO_DIAGRAM)
+![Architecture Diagram](./03_Architectural_Diagram.png)
 
 ---
 
@@ -45,8 +45,10 @@ Gain hands-on experience with controlling traffic flow and securing resources in
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](LINK_TO_YOUR_DOCUMENT)  
+📄 **Detailed Documentation:** [View Full Project Document](./02_Project_Document.pdf)  
 
-🔗 Next Project: [Creating a Private Subnet](LINK_TO_NEXT_PROJECT)
+🔗 Next Project: [Creating a Private Subnet](../03_Create_Private_Subnet)
+
+---
 
 ✅ *This is Project 2 of a 9-part AWS Networking Series.*
