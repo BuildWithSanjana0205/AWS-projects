@@ -19,7 +19,7 @@ Gain hands-on experience with building a private network environment in AWS usin
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](LINK_TO_DIAGRAM)
+![Architecture Diagram](./03_Architectural_Diagram.png)
 
 ---
 
@@ -45,7 +45,7 @@ Gain hands-on experience with building a private network environment in AWS usin
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](LINK_TO_YOUR_DOCUMENT)  
+📄 **Detailed Documentation:** [View Full Project Document](./)  
 
 🔗 Next Project: [Launching VPC Resources](LINK_TO_NEXT_PROJECT)
 
