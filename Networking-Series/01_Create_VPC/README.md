@@ -18,7 +18,7 @@ Gain hands-on experience with foundational AWS networking by building a VPC, sub
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](LINK_TO_DIAGRAM)
+![Architecture Diagram](./03_architectural_diagram.png)
 
 ---
 
@@ -43,6 +43,9 @@ Gain hands-on experience with foundational AWS networking by building a VPC, sub
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](LINK_TO_YOUR_DOCUMENT)  
+📄 **Detailed Documentation:** [View Full Project Document](.\02_Project_Document.pdf)  
 
-🔗 Next Project: [VPC Traffic Flow and Security](LINK_TO_NEXT_PROJECT)
+🔗 Next Project: [VPC Traffic Flow and Security](.\02_VPC_Traffic_flow_and_security)
+
+---
+*This is the 1st project of Networking Series*
