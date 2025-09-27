@@ -22,7 +22,7 @@ By the end of this series, I:
 
 Here’s a breakdown of what I built and learned in each project:  
 
-### 1️⃣ [Build a Virtual Private Cloud](./Project-1)  
+### 1️⃣ [Build a Virtual Private Cloud](./01_Create_VPC)  
 - I created the **foundation of my AWS network** by setting up a custom VPC.  
 
 ### 2️⃣ [VPC Traffic Flow and Security](./Project-2)  
