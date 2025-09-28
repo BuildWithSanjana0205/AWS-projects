@@ -79,8 +79,8 @@ All screenshots for this project are available in the [`screenshots/`](./02_Scre
 ---
 
 📄 **Detailed Documentation:** [View Full Project Document](./01_Project_Document.pdf)  
-> Replace with your actual link (Google Drive, Notion, etc.).
 
 ---
 
 👉 *This is Project 1 of a 5-part AWS Database Series.*
+For Exploring the next project in the series, ['Click Here'](../02_Aurora_Database_with_EC2)
