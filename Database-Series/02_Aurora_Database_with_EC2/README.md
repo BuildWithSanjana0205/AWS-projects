@@ -45,9 +45,17 @@ To launch an Aurora MySQL database cluster and configure it to securely connect 
 
 ---
 
+## 🏗️ Architectural Diagram  
+
+The diagram shows an **EC2 instance** securely connected to an **Amazon Aurora MySQL database** within a VPC, highlighting private networking and security group rules for controlled access.  
+
+[View Architecture Diagram](./03_Architectural_Diagram.png)
+
+---
+
 ## 📷 Screenshots
 
-Relevant screenshots are available in the `screenshots/` folder.  
+All screenshots for the project  are available in the [`screenshots`](./02_Screenshots) folder.  
 
 ---
 
@@ -66,3 +74,4 @@ Relevant screenshots are available in the `screenshots/` folder.
 ---
 
 👉 *This is Project 2 of a 5-part AWS Database Series.*
+To explore the next project ()
