@@ -56,6 +56,13 @@ To create a cloud-hosted relational database using RDS (MySQL), populate it with
 
 ---
 
+## 🏗️ Architectural Diagram
+
+The diagram below illustrates how **Amazon RDS (MySQL)** connects with **SQL Workbench** for querying and **Amazon QuickSight** for visualization, secured with IAM roles and security groups.  
+[View Architecture Diagram](./03_Architectural_Diagram.png)
+
+---
+
 ## 📷 Screenshots
 
 Relevant screenshots are available in the `screenshots/` folder.  
