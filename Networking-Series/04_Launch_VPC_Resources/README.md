@@ -21,7 +21,7 @@ Gain practical experience with launching EC2 instances in public and private sub
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](LINK_TO_DIAGRAM)
+![Architecture Diagram](./03_Architectural_Diagram.png)
 
 ---
 
@@ -50,8 +50,10 @@ Gain practical experience with launching EC2 instances in public and private sub
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](LINK_TO_YOUR_DOCUMENT)  
+📄 **Detailed Documentation:** [View Full Project Document](./02_Projec_Document.pdf)  
 
-🔗 Next Project: [Testing VPC Connectivity](LINK_TO_NEXT_PROJECT)  
+🔗 Next Project: [Testing VPC Connectivity](../05_Testing_VPC_Connectivity)  
+
+---
 
 ✅ *This is Project 4 of a 9-part AWS Networking Series.*
