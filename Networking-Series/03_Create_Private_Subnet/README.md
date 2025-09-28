@@ -45,8 +45,10 @@ Gain hands-on experience with building a private network environment in AWS usin
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](./)  
+📄 **Detailed Documentation:** [View Full Project Document](./02_Project_Document.pdf)  
 
-🔗 Next Project: [Launching VPC Resources](LINK_TO_NEXT_PROJECT)
+🔗 Next Project: [Launching VPC Resources](../04_Launch_VPC_Resources)
+
+---
 
 ✅ *This is Project 3 of a 9-part AWS Networking Series.*
