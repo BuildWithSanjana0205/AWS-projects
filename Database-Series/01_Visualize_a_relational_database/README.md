@@ -65,7 +65,7 @@ The diagram below illustrates how **Amazon RDS (MySQL)** connects with **SQL Wor
 
 ## 📷 Screenshots
 
-Relevant screenshots are available in the `screenshots/` folder.  
+All screenshots for this project are available in the [`screenshots/`](./02_Screenshots) folder.  
 
 ---
 
@@ -78,7 +78,7 @@ Relevant screenshots are available in the `screenshots/` folder.
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](LINK_TO_YOUR_DOCUMENT)  
+📄 **Detailed Documentation:** [View Full Project Document](./01_Project_Document.pdf)  
 > Replace with your actual link (Google Drive, Notion, etc.).
 
 ---
