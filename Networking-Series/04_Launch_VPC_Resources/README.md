@@ -50,7 +50,7 @@ Gain practical experience with launching EC2 instances in public and private sub
 
 ---
 
-📄 **Detailed Documentation:** [View Full Project Document](./02_Projec_Document.pdf)  
+📄 **Detailed Documentation:** [View Full Project Document](./02_Project_Document.pdf)  
 
 🔗 Next Project: [Testing VPC Connectivity](../05_Testing_VPC_Connectivity)  
 
