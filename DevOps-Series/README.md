@@ -14,7 +14,7 @@ By the end of this challenge, I had:
 📌 Challenge Roadmap
 1️⃣ Project 1: Set Up a Web App in the Cloud
 
-Launched an EC2 instance, deployed a Java web app, and connected it with Aurora DB.
+Launched an EC2 instance, deployed a Java web app.
 [📄 View Project 1](./01_Setupawebappincloud)
 
 2️⃣ Project 2: Connect a GitHub Repo with AWS
