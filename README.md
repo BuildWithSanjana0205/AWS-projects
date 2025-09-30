@@ -49,7 +49,7 @@ Projects exploring RDS, Aurora, database visualization, and integrations.
 
 Automation, CI/CD, containerization, and infrastructure as code projects.
 
-[Explore DevOps Projects →](./Devops-Series)
+[Explore DevOps Projects →](./DevOps-Series)
  
 
 🛠️ Tech Toolbox
